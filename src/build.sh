@@ -40,4 +40,4 @@ remove_file 2>/dev/null
 echo "------------开始运行...-------------------"
 ./$FileName
 echo "------------结束运行...-------------------"
-ldd /data/data/com.termux/files/home/t/$FileName
+ldd $(pwd)/$FileName
