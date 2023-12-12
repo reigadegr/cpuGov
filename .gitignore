@@ -1,10 +1,5 @@
 # Executables
 .git
-output
-Module/config/*.bak
-build_speed/*.cpp
-*/irisHelper
+src/cpuGov
 *.bak
 */*.bak
-*/*.zip
-*/*.log
