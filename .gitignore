@@ -1,0 +1,10 @@
+# Executables
+.git
+output
+Module/config/*.bak
+build_speed/*.cpp
+*/irisHelper
+*.bak
+*/*.bak
+*/*.zip
+*/*.log
